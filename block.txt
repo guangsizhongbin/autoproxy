@@ -1,4 +1,4 @@
- [Adblock Plus 2.0]
+! [Adblock Plus 2.0]
 ! Version: 202204121345
 ! Title: Chrome AdBlock auxiliarly filters
 ! Last modified: 12 Apr 2022 13:45 UTC
